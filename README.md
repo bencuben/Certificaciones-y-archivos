@@ -1,2 +1,2 @@
 # prueba
-Vamo a proba
+este es un ejemplo
